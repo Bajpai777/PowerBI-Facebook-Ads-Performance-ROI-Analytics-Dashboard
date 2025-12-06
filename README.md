@@ -2,7 +2,7 @@
 This Power BI dashboard provides a comprehensive analysis of Facebook marketing performance by combining key advertising, engagement, and audience metrics into a single interactive view. The report highlights cost efficiency, campaign reach, audience behavior, and conversion effectiveness to help marketers understand what’s driving results and where optimization is needed.
 
 ## Dataset Used
-<a href="https://github.com/Bajpai777/PowerBI-Facebook-Ads-Performance-ROI-Analytics-Dashboard/blob/main/Facebook_Data.xlsx">Excel Dataset</a> | <a href="https://github.com/Bajpai777/PowerBI-Facebook-Ads-Performance-ROI-Analytics-Dashboard/blob/main/facebook%20dashboard.pbix">Facebook Ads Performance Dashboard Dataset</a>
+<a href="https://github.com/Bajpai777/PowerBI-Facebook-Ads-Performance-ROI-Analytics-Dashboard/blob/main/Facebook_Data.xlsx">Excel Dataset</a> | <a href="https://github.com/Bajpai777/PowerBI-Facebook-Ads-Performance-ROI-Analytics-Dashboard/blob/main/facebook%20dashboard.pbix">Facebook Marketing Performance Dashboard Dataset</a>
 
 ## Sample Reports:
 ✔ Total Cost & Ad Spend – Monitors total investment across campaigns.
